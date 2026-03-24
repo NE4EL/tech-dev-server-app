@@ -15,4 +15,3 @@ async def user(user: User):
         "age": user.age,
         "is_adult": is_adult
     }
-
